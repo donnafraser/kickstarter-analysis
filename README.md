@@ -1,10 +1,10 @@
 # An Analysis of Kickstarter Campaigns
 ## Using Data to Evaluate Your Chances of Success When Planning a Fundraiser
-In our project, we sought to provide insight for various types of fundraisers and their probable success. To measure this, we used
-*Initial goal amounts
-*Number of backers
-*Pledge amounts
-*Projected length of fundraiser
+In our project, we sought to provide insight for various types of fundraisers and their probable success. To measure this, we used:
+* Initial goal amounts
+* Number of backers
+* Pledge amounts
+* Projected length of fundraiser
 ---
 Following are visuals charting a few of the top successful fundraisers:
 ---
