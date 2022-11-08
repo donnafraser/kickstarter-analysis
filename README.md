@@ -29,3 +29,8 @@ Apparently, our analysis concluded that the two most successful fundraising amou
 
 # Limitations
 Some limitations I noted were based on the small amount of data collected on various categories. There wasn't much for technology and games which was disappointing to me. But that definintely limited the scope of anaylsis we could target. 
+
+# Potential Data Visualizations
+It would be great to take a look at how each country contributed toward each category in fundrasing. We could create a graph specific to country. It would even be cool to create a chart based on a table of country and launch date to see the best country and month to target!
+
+I am sorry - I had a lot more written before, but I got a GitHub Unicorn and seem to have lost it. :-(
