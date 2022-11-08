@@ -26,3 +26,6 @@ A piece of the analysis disclosed something quite surprising. I believe this rev
 We show raising a small amount of funding could be easy if you had the right subject. For most, donating to a worthwhile cause with a goal of $1,000 isn't too crazy. What if that amount was $35-45,000? How generous would you feel?
 
 Apparently, our analysis concluded that the two most successful fundraising amounts were in the $1,000 range with many failures in between to see success again starting at $35,000 up to $45,000. Odd, indeed! 
+
+# Limitations
+Some limitations I noted were based on the small amount of data collected on various categories. There wasn't much for technology and games which was disappointing to me. But that definintely limited the scope of anaylsis we could target. 
