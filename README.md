@@ -23,12 +23,11 @@ Through using our data analysis, two things are well-defined:
 # What About Outcomes Based on Goals?
 A piece of the analysis disclosed something quite surprising. I believe this revelation warrants some data collection and analysis itself, but purely for curiosity only.
 
-It would seem that raising a relatively small amoutn of money could be easy if you had the right reason. To most, donating toward a goal of $1,000 isn't too outlandish. What is that amount was $35-45,000? How generous would you feel?
+We show raising a small amount of funding could be easy if you had the right subject. To most, donating toward a worthwhile cause with a target goal of $1,000 isn't too crazy. What is that amount was $35-45,000? How generous would you feel?
 
 Apparently, our analysis concluded that the two most successful fundraising amounts were in the $1,000 range with many failures in between to see success again starting at $35,000 up to $45,000. Odd, indeed! 
 
-to ask for fundrasing efforts on amounts of moenyon its face, but for our purposes here, it was  It is easy to believe that rasing a reasonable amount of money would be simp
-A part of analysis revealed something I found 
+
 ---
 ![Outcomes Based on Launch Date line chart](https://user-images.githubusercontent.com/116729611/198903149-f953436e-e284-40da-b23f-84fe5c3d19a5.png)
 ---
