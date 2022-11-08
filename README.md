@@ -34,3 +34,4 @@ Some limitations I noted were based on the small amount of data collected on var
 It would be great to take a look at how each country contributed toward each category in fundrasing. We could create a graph specific to country. It would even be cool to create a chart based on a table of country and launch date to see the best country and month to target!
 
 I am sorry - I had a lot more written before, but I got a GitHub Unicorn and seem to have lost it. :-(
+![GitHub Uni](https://user-images.githubusercontent.com/116729611/200475485-134dbec9-f228-4499-9e31-68b862067276.jpg)
