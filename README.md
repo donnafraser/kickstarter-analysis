@@ -28,7 +28,7 @@ We show raising a small amount of funding could be easy if you had the right sub
 Apparently, our analysis concluded that the two most successful fundraising amounts were in the $1,000 range with many failures in between to see success again starting at $35,000 up to $45,000. Odd, indeed! 
 
 # Limitations
-Some limitations I noted were based on the small amount of data collected on various categories. There wasn't much for technology and games which was disappointing to me. But that definintely limited the scope of anaylsis we could target. 
+Some limitations I noted were based on the small amount of data collected on various categories. There wasn't much for technology and games which were disappointing to me. That definintely limits the scope of anaylsis we can perform. 
 
 # Potential Data Visualizations
 It would be great to take a look at how each country contributed toward each category in fundrasing. We could create a graph specific to country. It would even be cool to create a chart based on a table of country and launch date to see the best country and month to target!
